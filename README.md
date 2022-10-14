@@ -31,7 +31,7 @@ Theses features are the basic ones. In the future, more features are likely to c
 
 
 ## Credit
-You must keep the **Powered by Guacactyl & Heliactyl**
+You must keep the **Powered by KoolKidDevelopment & Heliactyl**
 
 # 🎨 Frontend
 The frontend will be a free theme. I have not yet chosen which one.
@@ -44,6 +44,6 @@ SamCoThePug & Badsk
 
 <hr>
 
-**Copyright (c) 2022 Guacactyl** </br> 
+**Copyright (c) 2022 KoolKidDevelopment** </br> 
 </br>
 **Copyright (c) 2022 Heliactyl**
