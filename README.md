@@ -42,5 +42,5 @@ Guacactyl is open for contributions after the release! Feel free to help! :)
 # Founders of BetterHeliactyl
 SamCoThePug & Badsk
 
-Copyright (c) 2022 Guacactyl
+Copyright (c) 2022 Guacactyl </br>
 Copyright (c) 2022 Heliactyl
