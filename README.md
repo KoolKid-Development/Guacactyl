@@ -1,5 +1,7 @@
 ![Guacactyl](https://cdn.discordapp.com/attachments/1021317342560530442/1030559617605971999/5B845A.png)
 
+<hr>
+
 ## Important
 A fully customizable shared-resources based dashboard for pterodactyl hosting services
 Guacactyl is a fork of Heliactyl v15, **Guacactyl has not been yet released**. The discord server will be created soon.
