@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/kT1nbwn_d.webp?maxwidth=760&fidelity=grand" width=40% /></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1021317342560530442/1030559617605971999/5B845A.png width=40% /></p>
 <p align="center">A fully customizable shared-resources based dashboard for pterodactyl hosting services</p>
 <p> <img src="https://img.shields.io/badge/Made%20in%3A-UK-blue" /> <img src="https://img.shields.io/badge/Made%20with%3A-JS-green" /></p>
 
