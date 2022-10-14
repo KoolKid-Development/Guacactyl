@@ -1,5 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1021317342560530442/1030559617605971999/5B845A.png" width=70% /></p>
-
+![Guacactyl](https://cdn.discordapp.com/attachments/1021317342560530442/1030559617605971999/5B845A.png)
 
 ## Important
 A fully customizable shared-resources based dashboard for pterodactyl hosting services
