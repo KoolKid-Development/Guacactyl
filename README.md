@@ -1,6 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/sKZJ5tV.png" width=60% /></p>
+<p align="center"><img src="https://i.imgur.com/kT1nbwn_d.png" width=100% /></p>
 <p align="center">A fully customizable shared-resources based dashboard for pterodactyl hosting services</p>
-<img src="https://img.shields.io/badge/Made%20in%3A-UK-blue" /> <img src="https://img.shields.io/badge/Made%20with%3A-JS-green" /></p>
+<p> <img src="https://img.shields.io/badge/Made%20in%3A-UK-blue" /> <img src="https://img.shields.io/badge/Made%20with%3A-JS-green" /></p>
 
 Guacactyl is a fork of Heliactyl v15, **Guacactyl has not been yet released**. The discord server will be created soon.
 
