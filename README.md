@@ -6,6 +6,7 @@
 ### Credit
 You must keep the **Powered by Guacactyl/Heliactyl**
 
+## Important
 Guacactyl is a fork of Heliactyl v15, **Guacactyl has not been yet released**. The discord server will be created soon.
 
 <p align="center"><a href=""><img src="https://i.imgur.com/IJnJnTA.png" width=20%></a></p>
