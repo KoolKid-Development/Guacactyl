@@ -1,13 +1,10 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1021317342560530442/1030559617605971999/5B845A.png" width=50% /></p>
-<p align="center">A fully customizable shared-resources based dashboard for pterodactyl hosting services</p>
-<p align="center">No support will be given when code is released until full release.</p>
 
-
-## Credit
-You must keep the **Powered by Guacactyl/Heliactyl**
 
 ## Important
+A fully customizable shared-resources based dashboard for pterodactyl hosting services
 Guacactyl is a fork of Heliactyl v15, **Guacactyl has not been yet released**. The discord server will be created soon.
+
 
 <p align="center"><a href=""><img src="https://i.imgur.com/IJnJnTA.png" width=20%></a></p>
 
@@ -29,6 +26,10 @@ Theses features are the basic ones. In the future, more features are likely to c
 | Full login control    | ✔️         |
 | Add & Remove Coins    | ✔️         |
 | Link Vertise          | ✔️         |
+
+
+## Credit
+You must keep the **Powered by Guacactyl & Heliactyl**
 
 # 🎨 Frontend
 The frontend will be a free theme. I have not yet chosen which one.
